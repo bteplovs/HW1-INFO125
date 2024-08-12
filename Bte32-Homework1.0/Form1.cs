@@ -66,8 +66,9 @@ namespace Bte32_Homework1._0
 
             /* 
             
-            Validation logic implemented upon btnCalcPrice click as this is the main function of the program and if user 
-            incorreclty enters information this is where it will be caught and shown to the user
+            Validation logic implemented upon btnCalcPrice click 
+            
+            If user incorreclty enters information this is where it will be caught and message box will appear
 
             */
 
@@ -293,7 +294,7 @@ namespace Bte32_Homework1._0
             Single totalPrice = PriceOfOrdered().Sum();
             Single totalOrdered = QuantityOrdered().Sum();
 
-            // If more than 10 units ordered return float 0 (nothing) else calculate the total price with membership applied
+            // If more than 10 units ordered return float 0 (nothing) and throw error else calculate the total price with membership applied
 
             if (totalOrdered > 10) 
             {
