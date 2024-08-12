@@ -1,0 +1,10 @@
+C:\Users\Bogdan\Desktop\INFO125\assignment 1\Bte32-Homework1.0\bin\Debug\Bte32-Homework1.0.exe.config
+C:\Users\Bogdan\Desktop\INFO125\assignment 1\Bte32-Homework1.0\bin\Debug\Bte32-Homework1.0.exe
+C:\Users\Bogdan\Desktop\INFO125\assignment 1\Bte32-Homework1.0\bin\Debug\Bte32-Homework1.0.pdb
+C:\Users\Bogdan\Desktop\INFO125\assignment 1\Bte32-Homework1.0\obj\Debug\Bte32-Homework1.0.csproj.AssemblyReference.cache
+C:\Users\Bogdan\Desktop\INFO125\assignment 1\Bte32-Homework1.0\obj\Debug\Bte32_Homework1._0.Form1.resources
+C:\Users\Bogdan\Desktop\INFO125\assignment 1\Bte32-Homework1.0\obj\Debug\Bte32_Homework1._0.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\INFO125\assignment 1\Bte32-Homework1.0\obj\Debug\Bte32-Homework1.0.csproj.GenerateResource.cache
+C:\Users\Bogdan\Desktop\INFO125\assignment 1\Bte32-Homework1.0\obj\Debug\Bte32-Homework1.0.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\INFO125\assignment 1\Bte32-Homework1.0\obj\Debug\Bte32-Homework1.0.exe
+C:\Users\Bogdan\Desktop\INFO125\assignment 1\Bte32-Homework1.0\obj\Debug\Bte32-Homework1.0.pdb
